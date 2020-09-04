@@ -1,0 +1,25 @@
+{
+  "name": "excelcourse",
+  "version": "1.0.0",
+  "description": "pure JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurchenkovAV/exel-course.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "gurchenkovav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurchenkovAV/exel-course/issues"
+  },
+  "homepage": "https://github.com/GurchenkovAV/exel-course#readme",
+  "private":true
+}
